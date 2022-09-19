@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  height: 10vh;
+  position: relative;
+  bottom: -175px;
+  background-color: #283618;
+}
+.footer-content {
+  position: absolute;
+  top: 30%;
+}
+span {
+  color: #fff;
+}

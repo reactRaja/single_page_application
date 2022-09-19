@@ -1,0 +1,19 @@
+.app-logos {
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+  transition: transform 0.6s;
+  padding: 20px;
+}
+
+span {
+  padding: 5px;
+  font-size: 20px;
+  margin: 0%;
+  cursor: pointer;
+}
+.app-logos:hover {
+  color: rgb(0, 255, 145);
+  transform: scale(1.5);
+}
